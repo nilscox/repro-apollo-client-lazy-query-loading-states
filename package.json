@@ -1,0 +1,24 @@
+{
+  "name": "repro-apollo-client-lazy-query-loading-states",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@apollo/client": "3.0.0-beta.45",
+    "graphql": "^15.4.0",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.0.2",
+    "@testing-library/react-hooks": "^3.4.2",
+    "jest": "^26.4.2",
+    "react-test-renderer": "^17.0.1"
+  }
+}
